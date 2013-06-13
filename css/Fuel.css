@@ -1,0 +1,60 @@
+.bodybackground{
+	background:url(img/back.png);
+}
+
+
+.imagecontainer
+{
+	height:100%;
+	width:100%;
+	background:url(img/Europe_Santorini.jpg) no-repeat;
+	margin-left:7%;
+	
+}
+
+.navstyle
+{
+	width:86%;
+	border-bottom-color: rgb(71, 175, 210);
+	border-bottom-style: solid;
+	border-bottom-width: 5px;
+	margin-bottom: 1px !important;
+}
+
+.secondsearch{
+	background-color: rgb(0, 50, 87) !important;
+	width:85.9%;
+}
+
+.firsttext
+{
+	color: rgb(151, 151, 151);
+	display: block;
+	font-family: Arial;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: normal;
+	height: 72px;
+	line-height: 18px;
+	margin-bottom: 20px;
+	margin-left: 10%;
+	margin-right: 0px;
+	margin-top: 0px;
+	outline-color: rgb(151, 151, 151);
+	outline-style: none;
+	outline-width: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+	padding-top: 0px;
+	vertical-align: baseline;
+	width: 560px;
+}
+.headingClass
+{
+	color: white;
+	padding-left: 30%;
+	padding-top: 5%;
+	font:  80px/85px 'BrandonGrotesque-Thin';
+}
